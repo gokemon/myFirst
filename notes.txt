@@ -1,0 +1,27 @@
+
+
+http://demo.wpzoom.com/foodica/
+
+
+https://code.tutsplus.com/tutorials/from-psd-to-html-building-a-set-of-website-designs-step-by-step--net-37
+
+https://1stwebdesigner.com/psd-to-html/
+https://1stwebdesigner.com/psd-to-html/#psd-to-bootstrap
+
+Design an Agency Landing Page in Photoshop
+https://1stwebdesigner.com/psd-to-html/#photoshop
+
+Convert the Agency PSD into HTML
+https://1stwebdesigner.com/psd-to-html/#convert
+
+Make the Agency HTML Responsive
+https://1stwebdesigner.com/psd-to-html/#responsive
+
+
+This one can take you from PSD2HTML then to drupal magazine style
+
+http://wegraphics.net/blog/tutorials/photoshop/design-a-clean-sports-magazine-style-web-layout-with-photoshop/
+http://wegraphics.net/blog/tutorials/converting-a-clean-magazine-style-psd-template-to-htmlcss/
+
+https://www.function1.com/2014/08/converting-basic-htmlcss-into-a-drupal-theme
+https://www.drupal.org/docs/7/theming/howto/convert-any-website-layout-or-template-into-a-drupal-theme-easily
